@@ -1,4 +1,4 @@
-RazorPay Clone - Frontend
+#RazorPay Clone - Frontend
 Overview
 This repository contains the frontend code for a RazorPay clone, a payment gateway platform. The project aims to replicate key features of the RazorPay user interface. It serves as a frontend-only implementation, interacting with backend APIs.
 
